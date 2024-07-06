@@ -1,3 +1,7 @@
+Main Role: Backend, AI, Presentation, Leader
+
+#----------#
+
 This project was conducted as part of the EC3102 course at Gwangju Institute of Science and Technology (GIST).
 The team members who collaborated on this project are [woojin0408] and [Glorybean].
 
